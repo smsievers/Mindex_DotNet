@@ -1,0 +1,16 @@
+[
+  {
+    "id": 1,
+    "employee": {
+      "employeeId": "16a597ae-ede3-4847-99fe-c4518e82c86f",
+      "firstName": "John",
+      "lastName": "Smith",
+      "position": "Development Henchman",
+      "department": "Engineering",
+      "directReports": [
+      ]
+    },
+    "salary": 1235.67,
+    "effectiveDate": "2012-04-23T18:25:43.511Z"
+  }
+]
